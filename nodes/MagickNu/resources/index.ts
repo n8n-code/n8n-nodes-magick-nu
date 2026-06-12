@@ -1,0 +1,1 @@
+export { strategiesDescription } from './strategies';
